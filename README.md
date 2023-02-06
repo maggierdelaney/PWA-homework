@@ -1,6 +1,3 @@
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
-
-
 # PWA-Homework
 
 ## Description
@@ -51,7 +48,11 @@ You will see a "dist" directory created which will contain your bundled json fil
 
 - WHEN I register a service worker, THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 
+![cache](./images/cache.png)
+
 - WHEN I deploy to Heroku, THEN I should have proper build scripts for a webpack application
+
+![heroku](./images/heroku.png)
 
 ## Credits
 
