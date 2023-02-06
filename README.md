@@ -5,6 +5,8 @@ You will deploy this full-stack application to Heroku using the [Heroku Deployme
 
 ## Description
 
+Deplpyment Link: https://pwa-homework.herokuapp.com/
+
 This homework project provided starter code to manipulate to meet the below acceptance criteria in the Usage section. The task was to build a text editor that runs in the browser, and will also function offline.
 
 ## Table of Contents
